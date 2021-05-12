@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 3,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 4,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },
+    {
+        "id": 5,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 7,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 8,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },
+    {
+        "id": 9,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 11,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 12,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },
+    {
+        "id": 13,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 15,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 16,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },{
+        "id": 17,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 19,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 20,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },{
+        "id": 21,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 23,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 24,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    },{
+        "id": 25,
+        "createdAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 15:16:17 GMT+0200 (CEST)",
+        "name": "pandu",
+        "address": "vijayawadadd",
+        "class": "1st",
+        "subjects": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Ranga",
+        "address": "vijayawada",
+        "class": "2nd",
+        "subjects": [
+            "a",
+            "c"
+        ],
+        "createdAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)",
+        "updatedAt": "Mon Aug 27 2018 16:17:18 GMT+0200 (CEST)"
+    },
+    {
+        "id": 27,
+        "createdAt": "Wed May 12 2021 09:26:11 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 09:26:12 GMT+0530 (India Standard Time)",
+        "name": "wee",
+        "subjects": "ddd",
+        "age": "",
+        "address": "f",
+        "copyrigtby": "",
+        "class": "gg"
+    },
+    {
+        "id": 28,
+        "createdAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "updatedAt": "Wed May 12 2021 10:21:08 GMT+0530 (India Standard Time)",
+        "name": "aass",
+        "subjects": "ww",
+        "age": "",
+        "address": "ddd",
+        "copyrigtby": "",
+        "class": "qqq"
+    }
+]
